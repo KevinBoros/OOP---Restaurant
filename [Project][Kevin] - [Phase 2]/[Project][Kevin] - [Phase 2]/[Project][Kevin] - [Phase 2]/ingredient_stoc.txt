@@ -1,0 +1,26 @@
+Rosii, 32
+Faina, 4600
+Sunca, 70
+Mozarella, 2900
+Oua, 82
+Ardei iute, 100
+Salam, 45
+Salam iute, 30
+Ciuperci, 90
+Paste, 4200
+Pecorino, 3800
+Guanciale, 9600
+Morcovi, 38
+Ceapa, 63
+Vita, 6600
+Unt, 2000
+Lapte, 10000
+Zahar, 3000
+Mascarpone, 4000
+Piscoturi, 4500
+Arome, 100
+Cafea, 1500
+Lamaie, 20
+Apa, 24850
+Cofeina, 497
+Alcool - 12%, 498

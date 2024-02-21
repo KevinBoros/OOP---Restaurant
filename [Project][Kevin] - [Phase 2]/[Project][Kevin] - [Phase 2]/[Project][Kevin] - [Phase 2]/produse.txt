@@ -1,0 +1,14 @@
+Inghetata, 12, Inghetata
+Pizza Diavola, 38, Pizza Diavola
+Tiramisu, 23, Tiramisu
+Lasagna, 50, Lasagna
+Paste Bolognese, 40, Paste Bolognese
+Paste Carbonara, 32, Paste Carbonara
+Paste Amatriciana, 30, Paste Amatriciana
+Pizza Prosciutto E Funghi, 40, Pizza Prosciutto E Funghi
+Pizza Prosciutto, 35, Pizza Prosciutto
+Pizza Margherita, 30, Pizza Margherita
+Pizza Margherita XXL, 50, Pizza Margherita XXL
+Bautura Limonada, 10, Bautura Limonada
+Bautura Vin, 20, Bautura Vin
+Bautura Cafea, 15, Bautura Cafea

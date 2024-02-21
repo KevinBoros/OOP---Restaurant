@@ -1,0 +1,14 @@
+Inghetata: Lapte, 200;Zahar, 20;Arome, 1;
+Pizza Diavola: Rosii, 4;Faina, 200;Ardei iute, 3;Salam, 10;Salam iute, 10;
+Tiramisu: Oua, 1;Zahar, 20;Piscoturi, 80;Mascarpone, 100;Cafea, 10;
+Lasagna: Rosii, 5;Paste, 200;Morcovi, 1;Ceapa, 1;Vita, 200;Lapte, 400;Faina, 150;Unt, 50;
+Paste Bolognese: Rosii, 5;Paste, 200;Morcovi, 1;Ceapa, 1;Vita, 200;
+Paste Carbonara: Oua, 4;Paste, 200;Pecorino, 100;Guanciale, 200;
+Paste Amatriciana: Rosii, 5;Paste, 200;Guanciale, 200;
+Pizza Prosciutto E Funghi: Rosii, 3;Faina, 200;Sunca, 4;Mozarella, 30;Ciuperci, 10;
+Pizza Prosciutto: Rosii, 4;Faina, 200;Sunca, 5;Mozarella, 30;
+Pizza Margherita: Rosii, 4;Faina, 200;Mozarella, 50;
+Pizza Margherita XXL: Rosii, 8;Faina, 400;Mozarella, 100;
+Bautura Limonada: Lamaie, 1;Apa, 300;
+Bautura Vin: Alcool - 12%, 1;
+Bautura Cafea: Apa, 50;Cofeina, 1;
